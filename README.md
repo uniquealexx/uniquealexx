@@ -1,7 +1,7 @@
-# Привет, я Кость (uniquealexx)
+# noexcept · uniquealexx
 
-Full-stack разработчик на Node.js/TypeScript + нативные приложения на C/C++ (Windows и Linux).
-Весь код в профилях и репозиториях — открытый: можно смотреть, клонировать, проверять.
+Full-stack разработка и системное программирование:backend и веб-приложения на TypeScript,
+нативные приложения на C/C++ под Windows и Linux. Весь код в репозиториях — открытый.
 
 ## 🔧 Стек
 
@@ -12,17 +12,18 @@ Full-stack разработчик на Node.js/TypeScript + нативные п�
 
 ## 📦 Основной проект
 
-**OpenCord** — open-source, self-hosted альтернатива Discord: сервер и десктоп-клиент на TypeScript,
-голосовые каналы на WebRTC (SFU LiveKit), идентификация на Ed25519, мастер деплоя на свой VPS по SSH.
-Полностью открытый код.
+**[OpenCord](https://github.com/uniquealexx/OpenCord)** — open-source, self-hosted альтернатива Discord:
+сервер и десктоп-клиент на TypeScript, голосовые каналы на WebRTC (SFU LiveKit),
+идентификация на Ed25519, мастер деплоя на свой VPS по SSH.
 
-## 🛠️ Также в профиле
+## 🛠️ Системная разработка
 
-Набор системных утилит на C/C++: шифровальщик файлов (AES/XOR, C++20), Ethernet-сниффер (Linux, raw sockets),
-DirectX 11 движок и GUI, чат на Qt, утилиты на WinAPI, системные скрипты.
+- **[encryptor](https://github.com/uniquealexx/encryptor)** — CLI-шифрование файлов (AES/XOR, C++20)
+- **[EthernetPacketSniffer](https://github.com/uniquealexx/EthernetPacketSniffer)** — сниффер пакетов на C для Linux (raw sockets)
+- **[Simple-Game-Engine](https://github.com/uniquealexx/Simple-Game-Engine)** / **[DX-GUI](https://github.com/uniquealexx/DX-GUI)** — движок и GUI на DirectX 11
+- **[ModelViewer3D](https://github.com/uniquealexx/ModelViewer3D)** — просмотр 3D-моделей
+- **[Qt-Client-Server-Chat](https://github.com/uniquealexx/Qt-Client-Server-Chat)** — чат на Qt с сокет-сервером
+- **[Mini-Recycle-Bin](https://github.com/uniquealexx/Mini-Recycle-Bin)** — утилита на WinAPI
 
-## ✉️ Контакты
-
-Пишите мне на той фриланс-площадке, где вы меня нашли — отвечаю там.
-
-*Flutter использую в межплатформенном клиенте сервис-деск проекта (см. репозиторий RedSoft-ServiceDesk), основной фокус — TypeScript и C/C++.*
+Flutter затрагиваю в межплатформенном клиенте сервиса Service-Desk
+([RedSoft-ServiceDesk](https://github.com/uniquealexx/RedSoft-ServiceDesk)), основной фокус — TypeScript и C/C++.
